@@ -27,3 +27,5 @@ $ ruby loot.rb 3 1 2 3 4
 2: 2 1  Total value: 3
 3: 3    Total value: 3
 ```
+
+https://github.com/magic-mornings/splitting-the-loot
